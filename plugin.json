@@ -2,7 +2,7 @@
     "id": "enot",
     "name": "Enot",
     "description": "Поддержка платёжной системы Enot.IO",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "url": "#",
     "authors": [
         "Futuraura", "Gru"
