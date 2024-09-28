@@ -1,13 +1,13 @@
 <?php
 
 return [
-    'setup' => 'В панели управления Enot введите URL оповещения (WebHook) :notification <br>Можете ввести URL успеха и неуспеха соответвенно :success | :failure',
+    'setup' => 'In the Enot control panel, enter the notification URL (WebHook) :notification <br>You can enter the success and failure URLs respectively :success | :failure',
 
     'keys' => 'Enot',
 
-    'desc' => 'Описание платежа',
+    'desc' => 'Payment Description',
 
-    'private-key-2' => 'Приватный ключ 2',
+    'private-key-2' => 'Private Key 2',
 
-    'color' => 'Цвет логотипа',
+    'color' => 'Logo Color',
 ];

@@ -2,7 +2,7 @@
     "name": "azuriom/Enot",
     "type": "azuriom-plugin",
     "description": "Enot для магазина",
-    "license": "MIT",
+    "license": "AGPL-3.0-or-later",
     "autoload": {
         "psr-4": {
             "Azuriom\\Plugin\\Enot\\": "src/"
