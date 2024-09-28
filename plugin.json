@@ -1,0 +1,14 @@
+{
+    "id": "enot",
+    "name": "Enot",
+    "description": "Поддержка платёжной системы Enot.IO",
+    "version": "1.0.0",
+    "url": "#",
+    "authors": [
+        "Gru"
+    ],
+    "providers": [
+        "\\Azuriom\\Plugin\\Enot\\Providers\\EnotServiceProvider"
+    ],
+    "azuriom_api": "1.0.0"
+}
